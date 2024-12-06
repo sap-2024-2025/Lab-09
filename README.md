@@ -7,5 +7,5 @@ About reactive systems and architectures for reactive systems (continued)
 
 [Deploying Microservices using Kubernetes - Introductory notes](https://docs.google.com/document/d/1dDwqYZMRUKcvtVqUtXUkMqwqcEeiGgcTvzr9cXS9WF4/edit?usp=sharing)
 
-
+[Deployng Microservices using Serverless Lambda - Introductory notes](https://docs.google.com/document/d/1STT7P8rWksSnUAcHEz2gi45h41ONSyduYt6LfGCblro/edit?usp=sharing)
 	
